@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Whatsapp_chat_analysis", "Whatsapp_chat_analysis.pyproj", "{F24870B2-424B-478A-89A9-62753ECB1B71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F24870B2-424B-478A-89A9-62753ECB1B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24870B2-424B-478A-89A9-62753ECB1B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F9DC3CF-DA1B-4D2D-A446-67680EA58126}
+	EndGlobalSection
+EndGlobal
