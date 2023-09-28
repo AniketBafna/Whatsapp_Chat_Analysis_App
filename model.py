@@ -1,6 +1,5 @@
 import streamlit as st
-from preprocessor import preprocessor 
-from helper import helper
+import preprocessor, helper
 import matplotlib.pyplot as plt
 import plotly.express as px
 import seaborn as sns
